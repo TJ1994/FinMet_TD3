@@ -1,5 +1,6 @@
 # FinMet_TD3
 Solution Partie 3 for Financial Econometrics TD3 @ENSAE Winter '19
+
 By Ulrich Roschitsch and Thomas Schwarz
 
 
